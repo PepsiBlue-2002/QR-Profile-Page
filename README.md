@@ -15,6 +15,7 @@
 ## Reference
  - Idea for page from https://www.frontendmentor.io
  - QR Code designed with https://www.qrcode-monkey.com
+ 
  (Please refer to their respective About, TOS and Privacy Policies for usage.)
 
 # QR-Profile-Page# QR-Profile-Page
